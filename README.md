@@ -1,18 +1,18 @@
-#React Chat Api
+# React Chat Api
 Express server with Node.js
 
-#Description
+# Description
 A simple express server which is for returning json file.
 JSON file contain the messages of two users.
 
-##Features
+## Features
 * Express
 
-##Requirements
+## Requirements
 * node & npm
 * git
 
-##Installation
+## Installation
 * git clone https://github.com/JemmaHovhannisyan/chat_api.git
 * cd chat_api
 * npm install
